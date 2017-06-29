@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: #242943;
+		background: #dfa2c3;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1641,7 +1641,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Josein Slab", Source Sans Pro, Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -2169,7 +2169,7 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #242943;
+			color: #dfa2c3;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2185,11 +2185,11 @@
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #6fc3df;
+		background-color: #63dfe0;
 	}
 
 	a.icon.alt:active:before {
-		background-color: #37a6cb;
+		background-color: #dfa2c3;
 	}
 
 /* Image */
@@ -2765,9 +2765,12 @@
 			display: -webkit-flex;
 			display: -ms-flex;
 			display: flex;
-			-moz-transition: -moz-transform 0.25s ease, opacity 0.25s ease, -moz-filter 1s ease, -webkit-filter 1s ease;
-			-webkit-transition: -webkit-transform 0.25s ease, opacity 0.25s ease, -webkit-filter 1s ease, -webkit-filter 1s ease;
-			-ms-transition: -ms-transform 0.25s ease, opacity 0.25s ease, -ms-filter 1s ease, -webkit-filter 1s ease;
+			-moz-transition: -moz-transform 0.25s ease, opacity 0.25s ease, -moz-filter 1s ease, 
+				-webkit-filter 1s ease;
+			-webkit-transition: -webkit-transform 0.25s ease, opacity 0.25s ease, -webkit-filter
+				1s ease, -webkit-filter 1s ease;
+			-ms-transition: -ms-transform 0.25s ease, opacity 0.25s ease, -ms-filter 1s ease, 
+				-webkit-filter 1s ease;
 			transition: transform 0.25s ease, opacity 0.25s ease, filter 1s ease, -webkit-filter 1s ease;
 			padding: 4em 4em 2em 4em ;
 			background-position: center;
@@ -2826,7 +2829,7 @@
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67, 0.25);
+				background-color: #dfa2c3;
 				content: '';
 				display: block;
 				height: 100%;
@@ -2858,27 +2861,27 @@
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #dfa2c3;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #63dfe0;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #dfa2c3;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #e7b788;
+				background-color: #63dfe0;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #8ea9e8;
+				background-color: #dfa2c3;
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #87c5a4;
+				background-color: #63dfe0;
 			}
 
 		@media screen and (max-width: 1280px) {
