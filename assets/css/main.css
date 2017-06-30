@@ -3440,7 +3440,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #DFA2C3;
+			background-color: #000;
 			content: '';
 			display: block;
 			height: 100%;
