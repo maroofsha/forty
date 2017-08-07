@@ -1,9 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'We are a microscale handcrafting team where individual strengths & skills are combined in the pursuit of a common vision. Our team members work as 
-sales persons, dressmakers, designers, distributors, retailers, soap makers, chefs, bloggers & photographers. Whatever we make is handcrafted with care & quality from soaps,
-skincare to food products.'
+title: Cold process soapmaking
+layout: cplp
+description: 'Cold process soapmaking is where lye water & oils are mixed at same temperatures until trace is formed. Trace is formed when the oil-lye mixture attains a thic curd like consistency.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,11 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Hi there! We are MaroofSha</h2>
+			<h2>Coldprocess soaps</h2>
 		</header>
-		<p>We are a microscale handcrafting team where individual strengths & skills are combined in the pursuit of a common vision. Our team members work as 
-sales persons, dressmakers, designers, distributors, retailers, soap makers, chefs, bloggers & photographers. Whatever we make is handcrafted with care & quality from soaps,
-skincare to food products.</p>
+		<p>All of MaroofSha's cold process soaps are made with organic additives, luxurious oils & colored with spices, herbs, flowers & other natural coloring pigments.</p>
 	</div>
 </section>
 
