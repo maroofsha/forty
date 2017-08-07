@@ -2,7 +2,7 @@
 title: Cold process soapmaking
 layout: cplp
 description: 'Cold process soapmaking is where lye water & oils are mixed at same temperatures until trace is formed. Trace is formed when the oil-lye mixture attains a thic curd like consistency.'
-image: assets/images/pic07.jpg
+header-image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>About</h3>
+					<h3>History of soaps</h3>
 				</header>
 				<p>We are a part of MaroofSha & we handcraft herbal soaps & detergents in  micro scale.</p>
 				<ul class="actions">
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Contact</h3>
+					<h3>How to make a cold process soap</h3>
 				</header>
 				<p>If you have any questions or queries send us a message and we'll get back to you as soon as we can.</p>
 				<ul class="actions">
@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Terms &amp; Conditions</h3>
+					<h3>Making CP soaps at room temperature</h3>
 				</header>
 				<p>These terms &amp; Conditions outline the rules &amp; regulations of using MaroofSha Soaps.</p>
 				<ul class="actions">
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Privacy Policy</h2>
+			<h2>Soaping with carrot</h2>
 		</header>
 		<p> Visit our policy page to know our policies.</p>
 		<ul class="actions">
