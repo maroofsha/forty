@@ -82,6 +82,7 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Visit</a></li>
 		</ul>
 	</div>
+	 {% include pagination.html %}
 </section>
 
 </div>
