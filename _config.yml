@@ -3,7 +3,7 @@ title: MaroofSha
 subtitle: soaps
 email: contactmaroofsha@gmail.com
 description: All types of soaps.
-baseurl: "/forty" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://maroofsha.github.io/forty" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
